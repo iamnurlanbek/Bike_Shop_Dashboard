@@ -1,2 +1,2 @@
 # Bike_Shop_Dashboard
-# MS SQL SERVER $ MS POWER BI 
+# MS SQL SERVER & MS POWER BI 
